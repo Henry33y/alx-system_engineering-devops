@@ -1,2 +1,3 @@
 #!/bin/bash
-printf "Best School\n" | tee $'*\\\\\'"Best School"\\\\*$?*****:)' >/dev/null
+echoprintf "Best School\n" | tee $'*\\\\\'"Best School"\\\\*$?*****:)' >/dev/null
+ 'Best School' > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' 
