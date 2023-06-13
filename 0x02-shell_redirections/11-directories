@@ -1,3 +1,2 @@
 #!/bin/bash
 count=$(find . -mindepth 1 -type d | wc -l); echo "The number of directories and sub-directories is: $count"
-
